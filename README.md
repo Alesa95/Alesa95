@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1>Mi stack tecnológico</h1>
+
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,java,js,nodejs,express,html,css,bootstrap,mysql,mongodb,wordpress)](https://skillicons.dev)
+
+<h1>Mi top de lenguajes</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alesa95&layout=donut)
