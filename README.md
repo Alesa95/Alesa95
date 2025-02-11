@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1>Sobre mí</h1>
+Profesora de formación profesional inicial desde septiembre de 2021, impartiendo docencia en los grados de Desarrollo de Aplicaciones Web, Desarrollo de Aplicaciones Multiplataforma y Administración de Sistemas Informáticos en Red.
+
 <h1>Mi stack tecnológico</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,java,js,nodejs,express,html,css,bootstrap,mysql,mongodb,wordpress)](https://skillicons.dev)
