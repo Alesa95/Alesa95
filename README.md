@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>Sobre mí</h1>
-Profesora de formación profesional inicial desde septiembre de 2021, impartiendo docencia en los grados de Desarrollo de Aplicaciones Web, Desarrollo de Aplicaciones Multiplataforma y Administración de Sistemas Informáticos en Red.
+<p>Profesora de formación profesional inicial desde septiembre de 2021, impartiendo docencia en los grados de Desarrollo de Aplicaciones Web, Desarrollo de Aplicaciones Multiplataforma y Administración de Sistemas Informáticos en Red.</p>
 
 <h1>Mi stack tecnológico</h1>
 
