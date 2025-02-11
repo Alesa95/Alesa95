@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 <h1>Mi top de memes</h1>
 
-<img src="https://github.com/Alesa95/Alesa95/blob/main/php%20meme%201.PNG">
+<img width="50%" src="https://github.com/Alesa95/Alesa95/blob/main/php%20meme%201.PNG">
 
-<img src="https://github.com/Alesa95/Alesa95/blob/main/php%20meme%202.jpg">
+<img width="50%" src="https://github.com/Alesa95/Alesa95/blob/main/php%20meme%202.jpg">
