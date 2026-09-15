@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1>Mi stack tecnológico</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,java,js,nodejs,express,html,css,bootstrap,mysql,mongodb,wordpress,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,java,js,nodejs,express,html,css,bootstrap,mysql,mongodb,wordpress,bash,powershell,python,django)](https://skillicons.dev)
 
 <h1>Mi top de lenguajes</h1>
 
